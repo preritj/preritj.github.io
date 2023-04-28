@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Jan 2022 - Present: Sr. Applied Scientist at AWS, Chime SDK
+* Jan 2022 - Present: Sr. Applied Scientist at AWS, Chime SDK  
+
   Amazon Chime SDK lets builders add real-time voice, video, and messaging powered 
   by machine learning into their applications.
    * Built new ML based features for video conferencing such as face relighting and face touch-up / skin smoothing. Trained face segmentation model with limited dataset and designed novel post-processing algorithms for real-time inference.
