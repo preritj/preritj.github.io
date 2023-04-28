@@ -11,49 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Engineering Physics, IIT Bombay, 2003-2007
+* Ph.D in Theoretical Physics, Stony Brook University, 2007-2012
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  Amazon Chime SDK lets builders add real-time voice, video, and messaging powered 
+  by machine learning into their applications.
+   * Built new ML based features for video conferencing such as face relighting and face touch-up / skin smoothing. Trained face segmentation model with limited dataset and designed novel post-processing algorithms for real-time inference.
+   * Optimized models to run on edge devices such as laptops and mobiles.
+   * Implemented algorithms for background blur, skin smoothing and look-up tables in WebGL to further reduce run-time in the browsers.
+   * Conducted Mean Opinion Scoring studies to evaluate the model performance and to identify any biases.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
