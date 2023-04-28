@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Prerit Jaiswal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Deep Learning Researcher / Engineer | Previously Theoretical Particle Physicist"
   location         : "SF Bay Area"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  # pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=yfxqGvYAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  publications     : "https://inspirehep.net/authors/1065599?ui-citation-summary=true"         :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "preritj"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/preritjaiswal"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
