@@ -56,4 +56,4 @@ Training / Courses
 Projects
 ======
 * *Nov 2017 - Feb 2018*: **Didi Chuxing Self-Driving Car Challenge**  
-  Implemented neural network for real- time vehicle and pedestrian 3D detection, by using camera, LiDAR and radar data. Placed 8th out of 2,000� registered teams.  
+  Implemented neural network for real- time vehicle and pedestrian 3D detection, by using camera, LiDAR and radar data. Placed 8th out of 2,000+ registered teams.  
