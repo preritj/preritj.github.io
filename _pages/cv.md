@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Pdf](preritj.github.io/files/prerit.pdf)
+[Download Pdf](https://preritj.github.io/files/prerit.pdf)
 
 Education
 ======
