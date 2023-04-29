@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Pdf](preritj.github.io/files/prerit.pdf)
+
 Education
 ======
 * B.Tech. in Engineering Physics, IIT Bombay, 2003-2007
