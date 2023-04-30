@@ -9,8 +9,10 @@ author_profile: true
 
 Publications
 ======
-[Google scholar](https://scholar.google.com/citations?user=yfxqGvYAAAAJ&hl=en&oi=ao)
-[Inspire HEP](https://inspirehep.net/authors/1065599?ui-citation-summary=true)
+[Google scholar](https://scholar.google.com/citations?user=yfxqGvYAAAAJ&hl=en&oi=ao)  
+
+[Inspire HEP](https://inspirehep.net/authors/1065599?ui-citation-summary=true)  
+
 [arXiv](https://arxiv.org/search/?searchtype=author&query=Jaiswal%2C+P)
 
 Academic experience
