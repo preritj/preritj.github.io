@@ -26,4 +26,6 @@ Academic experience
    * Designed neural networks to classify different kinds of Higgs boson and calculated physics reach of future colliders using statistical analysis. 
    * Resolved a long standing anomaly in experiments at CERN by demonstrating that the numerical simulations were inconsistent with theoretical modeling.
 
-
+* *Aug 2007 - Aug 2012*: ***Research Assistant*** at **Stony Brook University**    
+   * Worked on topics ranging from Higgs physics, baryogenesis, collider physics, precision calculations for Large Hadron Collider and beyond Standard Model physics. 
+   * Completed my PhD in theoretical physics from YITP, Stony Brook University.
