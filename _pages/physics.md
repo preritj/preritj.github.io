@@ -13,7 +13,7 @@ Publications
 
 [Inspire HEP](https://inspirehep.net/authors/1065599?ui-citation-summary=true)  
 
-[arXiv](https://arxiv.org/search/?searchtype=author&query=Jaiswal%2C+P)
+[arXiv](https://arxiv.org/search/?searchtype=author&query=Jaiswal%2C+Prerit)
 
 Academic experience
 ======
